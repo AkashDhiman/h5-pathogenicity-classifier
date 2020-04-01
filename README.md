@@ -7,4 +7,4 @@ This code replicates the model discussed in the following research
 - This code has yet to collect relevant number of data and works with only 133 HP sequences and 750 LP sequences
 - These sequences were collected from https://www.fludb.org only
 - They are all HA segments of H5 avian influenza virus of various kinds
-- These HA segments are aligned using MUSCLE (Multiple Sequence Comparison by Log-Expectation) algorithm, available here
+- These HA segments are aligned using MUSCLE (Multiple Sequence Comparison by Log-Expectation) algorithm, available [here](https://www.fludb.org/brc/msa.spg?method=ShowCleanInputPage&decorator=influenza)
